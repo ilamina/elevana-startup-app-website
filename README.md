@@ -1,1 +1,1 @@
-# my-advanced-interactive-media-project
+# Advanced Interactive Media Projects
