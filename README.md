@@ -1,4 +1,4 @@
-# Website/App Name - ELEVANA (In-Progress)
+# Website & App Name - ELEVANA (In-Progress)
 
 ###  The Basics of User Experience Design
 
