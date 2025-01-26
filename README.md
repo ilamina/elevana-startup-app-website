@@ -28,5 +28,6 @@ This project takes a human-centered design approach by focusing on the specific 
 
 It is important to note that the `five phases`, stages, or modes are not always sequential. They do not have to follow any specific order. What’s more, they can often occur in parallel and repeat iteratively. As such, you should not envision the phases as a hierarchal or step-by-step process. Instead, you should understand it as an overview of the modes or phases that contribute to an innovative project, rather than sequential steps.
 
+By providing a platform that integrates financial tools, mentorship, funding access, and educational resources into a cohesive user experience, this project will help both startups and individuals improve their financial literacy and achieve their business or personal financial goals in a way that’s practical and impactful.
 
 **`Keywords that describes this project`**: Innovation, Collaboration, Growth, Networking, Budgeting, Startups, Tools, Resources, Success, Finance, Community.
