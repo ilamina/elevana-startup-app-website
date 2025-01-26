@@ -29,6 +29,11 @@ This project aims to create a platform that serves both startups and individuals
 -  Adobe Fresco | Photoshop | Illustrator | Figma | WordPress
   
 
+##  What Makes it Different from other Website or App
+- **Broad Appeal:** The budgeting section attracts a wide audience, while the startup tools cater to a niche group.
+- **Growth-Oriented:** Encourages users to explore startup resources after using the budgeting tools.
+
+
 ## Design Thinking and Human-Centered Approach
 This project takes a human-centered design approach by focusing on the specific needs of startups and individuals. The platform empathizes with the challenges startups face, such as access to resources and mentorship, and defines actionable solutions to address these needs. This project envisions a platform that integrates business and personal financial tools in a single, user-friendly interface, fostering both entrepreneurial success and financial literacy.
 
