@@ -5,6 +5,7 @@
 
 
 **The Basics of User Experience Design**
+
 According to `d.school` (book), there are five phases of design thinking as shown in the image below, according to d.school, are as follows: 
 - **Empathize** – with your users
 - **Define** – your users’ needs, their problem, and your insights
